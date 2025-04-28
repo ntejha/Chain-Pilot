@@ -1,0 +1,14 @@
+{
+  "api_sources": {
+    "shipping_data": "https://api.example.com/shipping",
+    "inventory_data": "https://api.example.com/inventory",
+    "supplier_status": "https://api.example.com/suppliers"
+  },
+  "alert_thresholds": {
+    "shipping_delay": 3,
+    "inventory_level": 15,
+    "supplier_risk": 7.5
+  },
+  "refresh_interval": 300,
+  "last_updated": "2025-04-29T01:25:40.902822"
+}

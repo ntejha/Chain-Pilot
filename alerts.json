@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "2025-04-29T01:12:00.728540",
+    "message": "ALERT: Shipment SH-67718 delayed by 8 days due to Customs delay",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:12:00.728686",
+    "message": "ALERT: Low inventory for Displays (6%) - Restock ETA: 3 days",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:12:00.728892",
+    "message": "ALERT: High risk score (9.3/10) for supplier GlobalParts Ltd. - Factors: Labor strikes, Capacity constraints",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:15:25.929941",
+    "message": "ALERT: Shipment SH-82542 delayed by 7 days due to Customs delay",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:15:25.930229",
+    "message": "ALERT: Shipment SH-72326 delayed by 4 days due to Customs delay",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:15:25.930463",
+    "message": "ALERT: Shipment SH-89537 delayed by 8 days due to Port congestion",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:15:25.930757",
+    "message": "ALERT: High risk score (8.2/10) for supplier AsiaComponents - Factors: Labor strikes",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.668165",
+    "message": "ALERT: Shipment SH-47235 delayed by 5 days due to Weather",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.668659",
+    "message": "ALERT: High risk score (9.2/10) for supplier ElectroSupply Co. - Factors: ",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.668898",
+    "message": "ALERT: High risk score (9.3/10) for supplier AsiaComponents - Factors: ",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.758660",
+    "message": "ALERT: Shipment SH-50723 delayed by 4 days due to Customs delay",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.758857",
+    "message": "ALERT: Shipment SH-24357 delayed by 6 days due to Port congestion",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.758958",
+    "message": "ALERT: Low inventory for Connectors (7%) - Restock ETA: 6 days",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:18:46.759099",
+    "message": "ALERT: High risk score (8.4/10) for supplier GlobalParts Ltd. - Factors: Quality concerns",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:23:46.669850",
+    "message": "ALERT: Shipment SH-10620 delayed by 5 days due to Customs delay",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:23:46.670251",
+    "message": "ALERT: Shipment SH-58882 delayed by 4 days due to Weather",
+    "acknowledged": false
+  },
+  {
+    "timestamp": "2025-04-29T01:23:46.670778",
+    "message": "ALERT: High risk score (10.0/10) for supplier ElectroSupply Co. - Factors: Geopolitical issues, Labor strikes",
+    "acknowledged": false
+  }
+]
