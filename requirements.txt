@@ -9,3 +9,4 @@ gradio
 sentence-transformers
 chromadb
 pdfplumber
+matplotlib
