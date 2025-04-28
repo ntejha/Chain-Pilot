@@ -6,3 +6,6 @@ newsapi-python
 ollama 
 ollama-mcpo-adapter
 gradio
+sentence-transformers
+chromadb
+pdfplumber
