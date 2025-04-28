@@ -1,0 +1,8 @@
+fastapi-mcp
+dotenv
+uvicorn
+git+https://github.com/weatherapicom/python.git#egg=weatherapipython
+newsapi-python
+ollama 
+ollama-mcpo-adapter
+gradio
